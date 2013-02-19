@@ -1,5 +1,5 @@
 // jira.js - astarik's module
-// author: astarik
+// author: astarik //
 
 var lables = document.getElementById('issuedetails')
 var button = document.createElement('A')
